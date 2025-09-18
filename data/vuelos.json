@@ -1,0 +1,242 @@
+[
+  {
+    "codigo": "LA249",
+    "destino_pais": "Paraguay",
+    "destino_ciudad": "Asunción",
+    "hora_salida": "05:44",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/py.png"
+  },
+  {
+    "codigo": "LA123",
+    "destino_pais": "Ecuador",
+    "destino_ciudad": "Quito",
+    "hora_salida": "10:35",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/ec.png"
+  },
+  {
+    "codigo": "LA987",
+    "destino_pais": "Bolivia",
+    "destino_ciudad": "La Paz",
+    "hora_salida": "11:58",
+    "estado": "Cancelado",
+    "bandera_url": "https://flagcdn.com/w320/bo.png"
+  },
+  {
+    "codigo": "LA978",
+    "destino_pais": "Colombia",
+    "destino_ciudad": "Bogotá",
+    "hora_salida": "17:27",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/co.png"
+  },
+  {
+    "codigo": "LA108",
+    "destino_pais": "Argentina",
+    "destino_ciudad": "Mendoza",
+    "hora_salida": "20:49",
+    "estado": "Cancelado",
+    "bandera_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "codigo": "LA905",
+    "destino_pais": "Brasil",
+    "destino_ciudad": "Brasilia",
+    "hora_salida": "18:19",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "codigo": "LA245",
+    "destino_pais": "Uruguay",
+    "destino_ciudad": "Montevideo",
+    "hora_salida": "07:22",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/uy.png"
+  },
+  {
+    "codigo": "LA301",
+    "destino_pais": "Chile",
+    "destino_ciudad": "Santiago",
+    "hora_salida": "09:47",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/cl.png"
+  },
+  {
+    "codigo": "LA732",
+    "destino_pais": "Venezuela",
+    "destino_ciudad": "Caracas",
+    "hora_salida": "14:05",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/ve.png"
+  },
+  {
+    "codigo": "LA564",
+    "destino_pais": "Perú",
+    "destino_ciudad": "Lima",
+    "hora_salida": "22:51",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/pe.png"
+  },
+  {
+    "codigo": "LA812",
+    "destino_pais": "Argentina",
+    "destino_ciudad": "Buenos Aires",
+    "hora_salida": "06:18",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "codigo": "LA671",
+    "destino_pais": "Brasil",
+    "destino_ciudad": "São Paulo",
+    "hora_salida": "16:29",
+    "estado": "Cancelado",
+    "bandera_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "codigo": "LA908",
+    "destino_pais": "Colombia",
+    "destino_ciudad": "Medellín",
+    "hora_salida": "13:12",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/co.png"
+  },
+  {
+    "codigo": "LA420",
+    "destino_pais": "Chile",
+    "destino_ciudad": "Concepción",
+    "hora_salida": "19:33",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/cl.png"
+  },
+  {
+    "codigo": "LA555",
+    "destino_pais": "Paraguay",
+    "destino_ciudad": "Ciudad del Este",
+    "hora_salida": "04:26",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/py.png"
+  },
+  {
+    "codigo": "LA307",
+    "destino_pais": "Perú",
+    "destino_ciudad": "Cusco",
+    "hora_salida": "11:14",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/pe.png"
+  },
+  {
+    "codigo": "LA891",
+    "destino_pais": "Ecuador",
+    "destino_ciudad": "Guayaquil",
+    "hora_salida": "08:53",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/ec.png"
+  },
+  {
+    "codigo": "LA134",
+    "destino_pais": "Bolivia",
+    "destino_ciudad": "Santa Cruz",
+    "hora_salida": "12:40",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/bo.png"
+  },
+  {
+    "codigo": "LA290",
+    "destino_pais": "Argentina",
+    "destino_ciudad": "Córdoba",
+    "hora_salida": "15:36",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "codigo": "LA444",
+    "destino_pais": "Uruguay",
+    "destino_ciudad": "Punta del Este",
+    "hora_salida": "23:17",
+    "estado": "Cancelado",
+    "bandera_url": "https://flagcdn.com/w320/uy.png"
+  },
+  {
+    "codigo": "LA602",
+    "destino_pais": "Venezuela",
+    "destino_ciudad": "Maracaibo",
+    "hora_salida": "21:08",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/ve.png"
+  },
+  {
+    "codigo": "LA771",
+    "destino_pais": "Chile",
+    "destino_ciudad": "Valparaíso",
+    "hora_salida": "02:49",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/cl.png"
+  },
+  {
+    "codigo": "LA319",
+    "destino_pais": "Brasil",
+    "destino_ciudad": "Rio de Janeiro",
+    "hora_salida": "05:58",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "codigo": "LA687",
+    "destino_pais": "Perú",
+    "destino_ciudad": "Arequipa",
+    "hora_salida": "17:05",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/pe.png"
+  },
+  {
+    "codigo": "LA411",
+    "destino_pais": "Ecuador",
+    "destino_ciudad": "Cuenca",
+    "hora_salida": "03:42",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/ec.png"
+  },
+  {
+    "codigo": "LA526",
+    "destino_pais": "Colombia",
+    "destino_ciudad": "Cali",
+    "hora_salida": "10:11",
+    "estado": "Retrasado",
+    "bandera_url": "https://flagcdn.com/w320/co.png"
+  },
+  {
+    "codigo": "LA233",
+    "destino_pais": "Uruguay",
+    "destino_ciudad": "Montevideo",
+    "hora_salida": "13:44",
+    "estado": "En horario",
+    "bandera_url": "https://flagcdn.com/w320/uy.png"
+  },
+  {
+    "codigo": "LA809",
+    "destino_pais": "Bolivia",
+    "destino_ciudad": "Cochabamba",
+    "hora_salida": "18:27",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/bo.png"
+  },
+  {
+    "codigo": "LA950",
+    "destino_pais": "Argentina",
+    "destino_ciudad": "Buenos Aires",
+    "hora_salida": "09:01",
+    "estado": "Embarcando",
+    "bandera_url": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "codigo": "LA381",
+    "destino_pais": "Venezuela",
+    "destino_ciudad": "Caracas",
+    "hora_salida": "15:19",
+    "estado": "Cancelado",
+    "bandera_url": "https://flagcdn.com/w320/ve.png"
+  }
+]
