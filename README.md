@@ -26,8 +26,3 @@ JavaScript (ES6, módulos) – lógica de interacción y fetch de datos
 Bootstrap Icons / Toggler – menú hamburguesa y navegación
 
 ---
-
-Navbar responsive: incluye menú hamburguesa visible en pantallas chicas.
-
-Formulario de búsqueda: input y botón para buscar vuelos.
-
