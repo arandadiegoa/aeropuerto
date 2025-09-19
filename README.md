@@ -1,4 +1,4 @@
-<p align="center"><a href="https://lenguajejs.com/javascript/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://lenguajejs.com/javascript/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="200" alt="Laravel Logo"></a></p>
 
 ✈️ Fly SLA – Proyecto de Búsqueda de Vuelos
 
