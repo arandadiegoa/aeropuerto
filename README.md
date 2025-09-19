@@ -11,11 +11,7 @@ Barra de navegación con menú hamburguesa (responsive).
 
 Buscador de vuelos con campo de input y botón de búsqueda.
 
-Renderizado dinámico de resultados dentro del contenedor #container_flights.
-
-Sección de resultados detallados en #resultSearchFlight.
-
-Página preparada para futuras integraciones con API de vuelos.
+Renderizado dinámico de resultados
 
 ---
 
@@ -31,12 +27,7 @@ Bootstrap Icons / Toggler – menú hamburguesa y navegación
 
 ---
 
-🔎 Funcionalidades principales
-
 Navbar responsive: incluye menú hamburguesa visible en pantallas chicas.
 
 Formulario de búsqueda: input y botón para buscar vuelos.
 
-Render dinámico: los resultados se insertan en #container_flights usando JS (appendChild).
-
-Sección de resultados extendidos: muestra resultados adicionales en #resultSearchFlight.
