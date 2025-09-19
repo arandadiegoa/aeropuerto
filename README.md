@@ -16,6 +16,7 @@ Sección de resultados detallados en #resultSearchFlight.
 
 Página preparada para futuras integraciones con API de vuelos.
 
+---
 
 🛠️ Tecnologías utilizadas
 
@@ -27,6 +28,7 @@ JavaScript (ES6, módulos) – lógica de interacción y fetch de datos
 
 Bootstrap Icons / Toggler – menú hamburguesa y navegación
 
+---
 
 🔎 Funcionalidades principales
 
