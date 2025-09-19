@@ -10,19 +10,52 @@
 </head>
 
 <body>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+          <img src="/img/avion.jpg" alt="Logo" width="30" height="30">
+        </a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="/">Home</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input id="inputFlight" class="form-control me-2" type="search" placeholder="Search flight"
+              aria-label="Search" />
+            <button id="btn-search" class="btn btn-outline-success" type="button">Search</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  </div>
 
   <div class="container">
-    <h1>Bienvenidos a Fly SLA</h1>
+    <h1 class="text-center">Bienvenidos a Fly SLA</h1>
     <section class="mb-3">
       <h6>Listado de Vuelos</h6>
       <div id="container_flights">
 
       </div>
 
-      <div id="resultado"></div>
+      <div id="resultado">
+      <a href="/" class="btn btn-primary btn-home">Volver</a>
+      </div>
+
     </section>
+  </div>
+
+  <div class="container mt-5">
+    <div id="resultSearchFlight"></div>
 
   </div>
+
 
 
 

@@ -1,0 +1,42 @@
+export const testFlight = [
+  {
+    codigo: "LA1001",
+    destino_pais: "Paraguay",
+    destino_ciudad: "Asunción",
+    hora_salida: "05:44",
+    estado: "En horario",
+    bandera_url: "https://flagcdn.com/w320/py.png",
+  },
+  {
+    codigo: "LA123",
+    destino_pais: "Ecuador",
+    destino_ciudad: "Quito",
+    hora_salida: "10:35",
+    estado: "Retrasado",
+    bandera_url: "https://flagcdn.com/w320/ec.png",
+  },
+  {
+    codigo: "LA987",
+    destino_pais: "Bolivia",
+    destino_ciudad: "La Paz",
+    hora_salida: "11:58",
+    estado: "Cancelado",
+    bandera_url: "https://flagcdn.com/w320/bo.png",
+  },
+  {
+    codigo: "LA978",
+    destino_pais: "Colombia",
+    destino_ciudad: "Bogotá",
+    hora_salida: "17:27",
+    estado: "Embarcando",
+    bandera_url: "https://flagcdn.com/w320/co.png",
+  },
+  {
+    codigo: "LA108",
+    destino_pais: "Argentina",
+    destino_ciudad: "Mendoza",
+    hora_salida: "20:49",
+    estado: "Cancelado",
+    bandera_url: "https://flagcdn.com/w320/ar.png",
+  },
+];
