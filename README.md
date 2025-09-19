@@ -14,6 +14,8 @@ Buscador de vuelos con campo de input y botón de búsqueda.
 
 Renderizado dinámico de resultados
 
+---
+
 🛠️ Tecnologías utilizadas
 
 HTML5 – estructura principal
@@ -24,3 +26,4 @@ JavaScript (ES6, módulos) – lógica de interacción y fetch de datos
 
 Bootstrap Icons / Toggler – menú hamburguesa y navegación
 
+---
